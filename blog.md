@@ -313,43 +313,6 @@ verify the Gen-6 score; 10/10 is confirmed for Fairphone 5]*.
 
 ---
 
-## Appendix: Fairphone 6 reference photos
-
-All device photos in one place (FCC ID 2AUWUFP6 public filing + two attributed iFixit stills).
-They are *reference evidence* for sections 1–2 — the post itself is about building a phone, not about the Fairphone.
-
-![The FP6 mainboard, shields off, on the FCC test bench](FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p2_page02.png)
-*Caption: ~62 × 54 mm. Everything a phone is, in one L-shaped board. (FCC ID 2AUWUFP6, internal photos.)*
-
-![Back off: battery bay, camera cover, module layout](FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p1_page05.png)
-*Caption: back cover and battery out. The screwed lower cover + clip-on upper cover carry the phone's structure.*
-
-![Daughterboard: SIM/microSD reader and not much else](FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p2_page14.png)
-*Caption: the ~70 × 20 mm secondary PCB — SIM/µSD reader, antenna feed pads, B2B. Ports and speakers land on it so the expensive board never gets touched in a port repair.*
-
-![Battery label close-up](videos/key/ifx_battery_label.jpg)
-*Caption (⚠️ iFixit CC BY-NC-SA, attribute): every number you need to clone the battery architecture is printed on the label.*
-
-![Pogo-pad flexes glued to the frame](videos/key/ifx_pogo_pins.jpg)
-*Caption (⚠️ iFixit CC BY-NC-SA): the price of "no connectors" — button/fingerprint flexes glued to the frame; iFixit calls this the one fiddly repair.*
-
-![SoC close-up: Qualcomm SM7635 with Micron memory](FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p2_page04.png)
-*Caption: Snapdragon 7s Gen 3 (`SM7635 000-AB`) with DRAM on top; Micron UFS beside it; PMIC below.*
-
-![The RF bay: SDR735 transceiver and front-end](FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p2_page03.png)
-*Caption: the discrete radio — Qualcomm `SDR735` transceiver surrounded by RFFE parts, antenna feeds top-left.*
-
-![PA modules and shielded RF bays](FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p1_page19.png)
-*Caption: two identical PAMiD modules (`S55643-51`) in their own shield fences; RED/WHITE coax feeds on the right.*
-
-![Wi-Fi/BT combo chip](FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p2_page09.png)
-*Caption: `WCN6755` Wi-Fi 6E/Bluetooth — the connectivity block is also Qualcomm.*
-
-![The labeled antenna map from the FCC filing](FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/antmap_crop.png)
-*Caption: the money shot — Sporton's antenna location map. Ant 0–6, 8 = cellular; 7, 9, 10 = Wi-Fi/BT; NFC under the camera cover.*
-
----
-
 ## Draft status (internal — cut before publishing)
 
 > **Status:** condensed draft — bullets + tables, peer-review fixes folded in

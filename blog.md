@@ -1,16 +1,5 @@
 # Can You Actually Build a Phone From Scratch? — working draft
 
-> **Status:** skeleton — key bullets + image picks. Prose not written yet.
-> **Working titles:** "Nobody Builds a Phone From Scratch (Not Even Fairphone)" ·
-> "An Engineer's Field Guide to Building a Phone" · "The Four Ways Into the Phone Business"
-> **Audience:** engineer-curious reader; payoff = honest feasibility verdict for a small team.
-> **Evidence base:** FP6 teardown videos (iFixit, JerryRigEverything), the full FCC filing
-> (2AUWUFP6, 160 exhibits), our own working BOM for a ~10k-unit custom phone, and the two
-> phones that inspired the spec: Fairphone 6 ([fairphone.md](fairphone.md)) and the Finnish
-> Jolla Phone ([jollaPhone.md](jollaPhone.md)).
-> Deep-dive docs: [fairphone6_video_teardown_analysis.md](fairphone6_video_teardown_analysis.md) ·
-> [fairphone6_fcc_rf_analysis.md](fairphone6_fcc_rf_analysis.md) ·
-> [custom_phone_design_decision_summary.md](custom_phone_design_decision_summary.md)
 
 ## The spec — my current selections
 
@@ -254,3 +243,19 @@ Specimen: Fairphone (Gen. 6) — €549, IP55, iFixit 10/10 repairability.
 - Full silicon ID table with confidence levels
 - Disassembly order / fastener map table
 - Image credits & licenses block
+
+---
+
+## Draft status
+
+> **Status:** skeleton — key bullets + image picks. Prose not written yet.
+> **Working titles:** "Nobody Builds a Phone From Scratch (Not Even Fairphone)" ·
+> "An Engineer's Field Guide to Building a Phone" · "The Four Ways Into the Phone Business"
+> **Audience:** engineer-curious reader; payoff = honest feasibility verdict for a small team.
+> **Evidence base:** FP6 teardown videos (iFixit, JerryRigEverything), the full FCC filing
+> (2AUWUFP6, 160 exhibits), our own working BOM for a ~10k-unit custom phone, and the two
+> phones that inspired the spec: Fairphone 6 ([fairphone.md](fairphone.md)) and the Finnish
+> Jolla Phone ([jollaPhone.md](jollaPhone.md)).
+> Deep-dive docs: [fairphone6_video_teardown_analysis.md](fairphone6_video_teardown_analysis.md) ·
+> [fairphone6_fcc_rf_analysis.md](fairphone6_fcc_rf_analysis.md) ·
+> [custom_phone_design_decision_summary.md](custom_phone_design_decision_summary.md)

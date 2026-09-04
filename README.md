@@ -12,7 +12,7 @@ decisions, OS selection, and reference analysis of comparable devices
 - `lightphone_specs.md`, `fairphone.md`, `jollaPhone.md` — reference device specs
 - `fairphone6_fcc_rf_analysis.md` — RF/antenna analysis from the Fairphone Gen 6 FCC filing
 - `fairphone6_video_teardown_analysis.md` — teardown analysis from iFixit / JerryRigEverything videos
-- `FCC_2AUWUFP6_Fairphone_Gen6/INDEX.md` — index of the FCC ID 2AUWUFP6 exhibits
-  (the 160 PDFs themselves are not committed; each line links to its source)
+- `FCC_2AUWUFP6_Fairphone_Gen6/` — README + index for the FCC ID 2AUWUFP6 filing
+  (the 160 PDFs themselves are not committed; the index links each to its source)
 - `videos/` — key frames, contact sheets and transcripts used by the teardown analysis
-  (full videos not committed; source URLs in `videos.md`)
+  (full videos not committed; source links in `videos/README.md`)

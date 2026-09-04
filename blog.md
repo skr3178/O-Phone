@@ -12,6 +12,30 @@
 > [fairphone6_fcc_rf_analysis.md](fairphone6_fcc_rf_analysis.md) ·
 > [custom_phone_design_decision_summary.md](custom_phone_design_decision_summary.md)
 
+## The spec — my current selections
+
+The working spec this whole post orbits around (full decision log:
+[custom_phone_design_decision_summary.md](custom_phone_design_decision_summary.md)):
+
+| Subsystem | My selection |
+|---|---|
+| SoC | Qualcomm Snapdragon 7 Gen 4 (SM7750-AB, 4 nm) |
+| RAM | 12 GB LPDDR5X |
+| Storage | 256 GB UFS 4.0 |
+| Display | 6.36" 1080×2400, 120 Hz AMOLED, matte glass option |
+| Main camera | Sony LYTIA 808, 50 MP, OIS |
+| Front camera | Samsung ISOCELL 3LU, 12 MP, autofocus |
+| Battery | 6000 mAh silicon-carbon, **removable** |
+| Biometrics | Fingerprint in power button (Goodix), no Face ID |
+| SIM | eSIM-only (no tray) |
+| Charging | USB-C, 45 W PD |
+| Audio | ≥3 mics, stereo speakers |
+| Haptics | LRA actuator |
+| OS | AOSP / custom Android, hardened (verified boot, TEE, SELinux enforcing) |
+| Target | ~10k units, ≈$170–220 hardware BOM (pre-2026-memory-surge estimate) |
+
+---
+
 **Image licensing plan**
 - ✅ **FCC exhibit photos** (`FCC_.../_extracted/inpho/raw/*.png`) — public regulatory filings; safe to publish; nobody else's blog uses them. These carry the post.
 - ⚠️ **iFixit stills** (`videos/key/ifx_*.jpg`) — iFixit publishes under **CC BY-NC-SA**; usable on a non-commercial blog *with attribution + same-license note*.

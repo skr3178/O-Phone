@@ -1,0 +1,323 @@
+[00:00] The best smartphone in the world and for
+[00:02] the world is finally coming to the USA,
+[00:05] but something just doesn't feel quite
+[00:07] right about it. This is the new
+[00:09] Fairphone 6. And normally here on
+[00:11] JerryRig Everything, we durability test
+[00:13] a smartphone before taking it apart. But
+[00:16] this particular smartphone is designed
+[00:18] to be taken apart. Designed to be
+[00:21] repaired and designed to be upgraded
+[00:23] with 8 years of security updates and a
+[00:25] 5-year warranty. On paper, it sounds
+[00:28] like this modular Fairphone 6 is the
+[00:30] solution to all the world's problems.
+[00:32] But there's a catch for at least the
+[00:34] people who live in the USA. And we'll
+[00:36] get to that more in a minute. On the
+[00:37] back side, there is a subtle recess near
+[00:39] the lower edge. Kind of interesting. And
+[00:41] right above that, there are two
+[00:43] prominent T5 screws, which conceal the
+[00:46] user replaceable battery that's also
+[00:48] screwed in with five more of the same T5
+[00:51] screws. The battery of the Fairphone 6
+[00:53] can be replaced in about 2 minutes by
+[00:55] anyone with that Torx 5 screwdriver bit.
+[00:58] It's not quite as repairable as the
+[00:59] Fairphone 5 from 2 years ago, though,
+[01:02] which didn't need a screwdriver at all
+[01:03] to swap the battery. The Torque screws
+[01:05] kind of mess with the whole vibe that
+[01:07] the phone used to have. Now, there are
+[01:09] modular accessories for the back panel.
+[01:11] These all have braille on the box, and
+[01:13] since I'm a huge fan of accessibility,
+[01:15] thumbs up for that. The accessories
+[01:17] include a credit card module or finger
+[01:20] loop module or even some beefy screws
+[01:22] for a lanyard strap or your laboos. Now,
+[01:25] while I am disappointed that the
+[01:26] Fairphone 6 is less repairable than the
+[01:29] Fairphone 5, it's not the main reason
+[01:31] that I'm disappointed. The reason I'm
+[01:33] disappointed is because in Europe, this
+[01:35] phone costs an extremely reasonable
+[01:37] €599,
+[01:38] or about 700 bucks. The battery is 4,315
+[01:43] mAh, by the way, and there's a little
+[01:45] circular white water damage indicator at
+[01:47] the top of the battery slot. However,
+[01:49] getting back to the price of the phone,
+[01:51] the only way to officially get the
+[01:52] Fairphone 6 in the USA is to pay a third
+[01:55] party company called Marina $900,
+[01:59] $200 more than the rest of the world,
+[02:02] which doesn't have all that great of a
+[02:04] flavor. There are eight more silver T5
+[02:06] screws holding in the front display
+[02:08] panel, which is all you'll need to
+[02:09] remove and replace the screen, which
+[02:12] does bring back some of my happiness.
+[02:14] For reference, these replacement parts
+[02:15] are already available in Europe. The
+[02:17] battery is €40 and the screen is €9.
+[02:20] Very reasonable. And with even an
+[02:22] amateur level of screwing abilities, the
+[02:24] screen of the Fairphone 6 can be
+[02:26] replaced in about 5 minutes. But again,
+[02:29] no replacement parts are yet available
+[02:31] through Marina here in the USA, which
+[02:33] again makes me wonder why they released
+[02:36] the phone here in the first place since
+[02:38] spare parts are kind of the whole stick.
+[02:40] I am told the spare parts are coming
+[02:41] later in August of 2025, but based on
+[02:44] the pricing of the phone, they will
+[02:46] probably be far more expensive here in
+[02:48] the USA than over in Europe. The five
+[02:51] black T5 screws hold in the lower
+[02:53] plastics. This replacement piece cost
+[02:55] €25. and he comes up with the small
+[02:57] circular coin style vibrator motor as
+[03:00] well as the lower loudspeaker which does
+[03:02] not have any balls inside. There is
+[03:04] however an incredibly modular USBC 2.0
+[03:07] port that can charge at 30 watts.
+[03:09] There's a black rubber ring around the
+[03:11] port which helps with the IP55
+[03:13] waterresistant rating since protection
+[03:15] is always a good thing. There are six
+[03:17] more T5 screws up in the top plastics.
+[03:20] With those gone, we get our first look
+[03:21] at the motherboard and it's little
+[03:23] Easter egg which I'll get to in a
+[03:25] second. The top plastics come away with
+[03:26] their NFC coil. There is no wireless
+[03:29] charging. We also find that one of the
+[03:31] three camera rings on the back isn't
+[03:33] actually a camera. It's a 3D
+[03:35] timeofflight depth sensor, which is
+[03:37] fine. Apple uses these types of sensors
+[03:39] as well with their own cameras. The
+[03:41] Easter egg on the motherboard looks kind
+[03:43] of like an actual egg that's been broken
+[03:45] on the motherboard. But in reality, this
+[03:47] tattoo is actually a physical location,
+[03:50] only visible, of course, to the people
+[03:51] who tear down their phones or who are
+[03:53] subscribed here to my channel. It's a
+[03:55] map of the DRC, the Democratic Republic
+[03:58] of the Congo, and Fairphone is the
+[04:01] country immortalized on their
+[04:02] motherboard to highlight its commitment
+[04:04] to sourcing minerals responsibly. Since
+[04:06] the DRC is where we get a lot of our
+[04:08] cobalt, copper, and lithium, the main
+[04:10] camera is a 50 megapixel unit, which
+[04:13] does have optical image stabilization.
+[04:15] The camera right above that is a 13
+[04:17] megapixel ultrawide, which does not have
+[04:19] OIS, but that's normal among the
+[04:21] ultrawide cameras. And if we grab the
+[04:23] front-facing camera, unnapping it like a
+[04:25] little Lego, we can find the 32
+[04:27] megapixel does not have any OIS either.
+[04:30] There is however a modular stereo
+[04:32] earpiece speaker which has the
+[04:34] waterproofing mesh over the opening to
+[04:36] help protect the speaker internals. And
+[04:38] for 99% of everyone else on the planet,
+[04:41] this is where they would stop normal
+[04:42] repairs and in the tear down. However,
+[04:45] we aren't regular people, so we're going
+[04:47] to keep on going to see what kind of
+[04:49] cooling system the Fairphone 6 is
+[04:50] working with. Super cool that each of
+[04:52] the signal wires are colorcoded on the
+[04:54] motherboard. We've never seen that
+[04:56] before. And also, I almost forgot, we do
+[04:58] have the SIM card tray down here at the
+[05:00] bottom, which, and this is true, doubles
+[05:03] as an expandable storage tray.
+[05:07] You can expand the storage of the
+[05:08] Fairphone 6 up to 2 terb. The
+[05:11] motherboard does not have any screws of
+[05:13] its own, just pulls right up and out of
+[05:14] the frame. It's using recycled tin and
+[05:17] copper, and getting its other metals and
+[05:19] minerals from verified conflict-free
+[05:21] mining areas, like their name,
+[05:23] Fairphone, implies. It looks like the
+[05:25] thermal solution is just some soft
+[05:27] thermal foam on the back that pulls heat
+[05:29] from the motherboard and transfers it to
+[05:31] the aluminum mid-frame. There's also
+[05:33] some graphite on the screen side of the
+[05:34] frame and hopefully it can all survive
+[05:37] the full reassembly and durability test.
+[05:39] And yeah, of course, I get it. The world
+[05:42] doesn't revolve around the USA, but
+[05:44] having to pay an extra $200 kind of puts
+[05:47] the Fairphone 6 and its current specs
+[05:49] outside of a logical grasp for someone
+[05:52] in the USA. Anyway, one company that
+[05:54] does have the logical savings of your
+[05:56] wallet in mind though and actually gives
+[05:58] away his services for free for 90 days
+[06:00] is today's sponsor, Bit Defender. With
+[06:03] new AI scam text messages and AI videos
+[06:06] currently taking advantage of your
+[06:07] grandparents, online scamming has turned
+[06:09] into a very effective trillion dollar
+[06:11] industry. Scams delivered by text
+[06:13] message are the most popular these days.
+[06:15] And I even get those messages on my own
+[06:18] personal phone. One way to fight back is
+[06:19] with Bit Defender. They've been a global
+[06:21] leader in cyber security for the last
+[06:23] two decades, which means they're good at
+[06:25] catching these scams no matter what
+[06:27] country they emanate from. Bit Defender
+[06:29] has also added a new protective layer
+[06:31] for your digital life called Scam
+[06:32] Copilot. It's a new AI powered sidekick
+[06:35] that detects and fights sophisticated
+[06:37] online email and texting scams in real
+[06:40] time. And it's free for 90 days with the
+[06:42] link in the description. You can even
+[06:44] send the co-pilot screenshots of text
+[06:46] messages that you think might be scams.
+[06:48] And the scam co-pilot can let you or
+[06:50] your parents know what's safe. A smart
+[06:52] person such as yourself might understand
+[06:54] the difference between fishing and
+[06:56] fishing, but for sure your parents or
+[06:58] grandparents might not. With Bit
+[07:00] Defender, you can now protect your
+[07:01] family and your future inheritance on
+[07:03] five devices at the same time. You don't
+[07:05] have to take my word for it, though. Bit
+[07:07] Defender is already delivering
+[07:08] protection to millions of customers and
+[07:10] businesses worldwide. And it works on
+[07:12] iPhones, Androids, and of course, your
+[07:14] computers. It also gets you unlimited
+[07:17] VPN traffic, a password manager, and
+[07:19] identity protection. I'll leave a link
+[07:21] in the description for your free 90 days
+[07:23] of Bit Defender premium security
+[07:25] subscription. And thanks to Bit Defender
+[07:27] for sponsoring this video. One thing we
+[07:29] should talk about is the bright yellow
+[07:30] button on the side of the Fairphone 6.
+[07:32] It's actually a slider that instantly
+[07:34] turns your smartphone into a dumb phone.
+[07:36] And honestly, I think this is pretty
+[07:38] awesome. The first step to overcoming an
+[07:40] addiction is distancing yourself from
+[07:42] what you're addicted to. And I think
+[07:44] every phone should come with one of
+[07:45] these touch grasp buttons. With it all
+[07:47] fully assembled and every screw put back
+[07:49] into place, including the eight screws
+[07:51] around the edge of the screen and the
+[07:53] two visible screws on the back panel,
+[07:55] the phone should in theory be just as
+[07:57] strong now as the day it was born. Both
+[08:00] of which are today. All since it's
+[08:02] designed to be taken apart. Now, keep in
+[08:04] mind that everywhere else in the world,
+[08:05] this is a mid-range phone with a nearly
+[08:07] mid-range price point. But here in the
+[08:09] USA, it's a mid-range phone with a near
+[08:12] flagship price point, which completely
+[08:14] changes the vibe. You can see the
+[08:16] variable refresh rate on the 120 Hz
+[08:18] screen. It's not visible to the naked
+[08:20] eye, of course, but those 10 hertz
+[08:21] starts showing up at 60 fps, which is
+[08:24] what my main camera is filming with. The
+[08:26] Gorilla Glass 7i we see still scratches
+[08:28] at a level six with deeper grooves at a
+[08:30] level seven. The sides of the phone are
+[08:32] rather thick
+[08:37] and made from plastic, but thicker
+[08:39] phones do not bother me in the
+[08:41] slightest, so it's not a big deal. We
+[08:43] have our power button over here, as well
+[08:44] as the yellow plastic programmable
+[08:46] Fairphone Moment switch. Up at the top,
+[08:49] there is a small noiseancelling
+[08:50] microphone hole, but no antenna line
+[08:52] since the whole phone is plastic. The
+[08:54] earpiece slit is a tad wider than a
+[08:56] razor, but the grill itself won't ever
+[08:58] be falling out on its own.
+[09:01] The left side of the phone, besides just
+[09:03] being plastic, has volume buttons that
+[09:05] do come out from the frame. Now, I don't
+[09:07] think this will ever happen on accident,
+[09:09] but it is worth knowing, especially
+[09:11] since the buttons don't really want to
+[09:12] go back in their home once they come
+[09:14] out. Samsung's buttons click back in
+[09:16] pretty quick. I also noticed here that
+[09:18] everything on the screen has a weird
+[09:20] green tint to it, which is an
+[09:22] interesting theme for the phone to ship
+[09:23] with. Going into the menu and getting
+[09:26] rid of that hue, though, brought the
+[09:27] screen back to a normal color gradient.
+[09:29] Anyway,
+[09:32] the bottom of the phone has that SIM and
+[09:34] SD card tray along with a USBC 2.0 port,
+[09:38] which again, when you have the same
+[09:39] specs as an iPhone, you know you're at
+[09:41] least 3 years behind. Most Android
+[09:44] flagships are using USB 3.2, which
+[09:46] transfers data 10 times faster. But the
+[09:49] Fairphone is modular, so maybe they can
+[09:51] supply an upgraded port in the future.
+[09:53] Now, I'm not the biggest fan of torque
+[09:55] screws being the standard screw on a
+[09:57] so-called repairable smartphone. I do
+[10:00] agree that Torx are better. As you can
+[10:02] see from my orthographic projection,
+[10:04] they have six points, which give them
+[10:06] more gripping ability than a
+[10:07] four-pronged Phillips, and they're less
+[10:10] likely to strip or cam out, but they are
+[10:13] also less common, which means people
+[10:15] might not have these screwdriver bits
+[10:16] just laying around that they could use
+[10:18] for repairs. And I'm not quite sure the
+[10:21] less common bit size is worth the
+[10:23] trade-off. Both camera lenses and the
+[10:25] time of flight circle are protected with
+[10:26] glass, but the rest of everything else
+[10:28] on the back is made from plastic. The
+[10:30] screen, as we saw earlier, is a 6.3 in
+[10:33] LTPO with 1 billion colors, 1,400 nits,
+[10:37] and 120 Hz variable refresh rate, and
+[10:40] lasted about 35 seconds under the heat
+[10:42] for my lighter. And the OLED mostly
+[10:44] recovered. Finally, the bin test. Even
+[10:47] with the thick aluminum midframe and
+[10:49] screws up the wazoo, the Fairphone 6
+[10:51] does have some flex when bent from the
+[10:53] back and even more flex when bent from
+[10:56] the front. Those two rear screws are
+[10:58] holding on for dear life. No two screws
+[11:00] have ever done more work in the history
+[11:02] of smartphones. But thanks to those two
+[11:05] specifically putting in overtime, the
+[11:07] Fairphone 6 lives to see another day. I
+[11:10] don't know if it's the US tariffs, the
+[11:11] middlemen involved, or if Fairphone just
+[11:13] doesn't like shipping internationally,
+[11:15] but it's a bummer we can't have those
+[11:17] lower prices on this side of the pond.
+[11:19] But congrats to the rest of the world,
+[11:21] though. You got a winner with this one.
+[11:24] Thanks a ton for watching. I'll see you

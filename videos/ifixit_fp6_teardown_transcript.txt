@@ -1,0 +1,154 @@
+[00:00] What would it take to manufacture a long
+[00:02] lasting and repairable smartphone, but
+[00:04] one that sources material and labor as
+[00:07] ethically as possible? The folks at
+[00:08] Fairphone founded their company in 2013
+[00:11] based on that question, and the
+[00:12] Fairphone 6 is the most refined answer
+[00:15] they've provided yet. As we've come to
+[00:17] expect from Fairphone, we already have a
+[00:19] nice selection of parts and repair
+[00:20] manuals available for the Fairphone 6
+[00:22] and a commitment to provide 7 years of
+[00:24] Android software upgrades and 8 years of
+[00:26] security updates. And in addition to the
+[00:29] 5-year warranty, Fairphone runs a
+[00:31] loyalty program that rewards consumers
+[00:33] for each repair performed, and every
+[00:35] year they continue to own their
+[00:37] smartphone. There are trade-offs in the
+[00:39] hardware. They've implemented USB 2
+[00:41] instead of USB 3 to reduce production
+[00:43] costs, and the camera sensors perform
+[00:45] well, but won't quite measure up to
+[00:47] flagship tier products. But if you're
+[00:49] looking for a device that puts people on
+[00:51] planet before profits, then this may
+[00:52] well be it. Now, Fairphone's phones are
+[00:55] predominantly aimed at the European
+[00:56] market, but US customers can get their
+[00:59] hands on one of these things through the
+[01:00] partnership with Marina. So, let's dive
+[01:02] in and see how Fairphone made a
+[01:04] repairable device. Starting with
+[01:06] everybody's favorite consumable
+[01:07] component, the battery. The back cover
+[01:09] is held in place by two T5 torque
+[01:11] screws, the only screw type used
+[01:13] throughout. Once those are out, the
+[01:14] cover slides away. Inside, there are
+[01:16] four screws securing the battery and one
+[01:18] up top securing a plastic cover. With
+[01:21] the flex cable disconnected, the battery
+[01:22] is free to come out. Using screws to
+[01:24] secure the battery beats glue every
+[01:26] single time, easy to remove and easy to
+[01:29] replace. With a typical capacity of
+[01:31] 17.26 W hours, the battery is glued to a
+[01:33] thin strip of metal designed to be light
+[01:35] in weight and resource consumption,
+[01:37] while sturdy enough to protect a lithium
+[01:39] ion pouch from unintended impact. Once
+[01:42] the battery is out, it's time to take a
+[01:43] look at another commonly replaced
+[01:45] component of the screen. The top half of
+[01:47] the back cover is only held in place by
+[01:49] clips. now that the battery is out. So,
+[01:50] I'll remove that first. The eight silver
+[01:52] screws securing the screen are now fully
+[01:54] revealed and can be removed.
+[02:02] That frees the screen from the housing
+[02:04] and reveals the single screw and bracket
+[02:06] underneath the screen itself that
+[02:07] secured the ribbon cable to the main
+[02:09] board. There's no glue here, and that's
+[02:10] one of the reasons why this phone is
+[02:12] IP55 rated. But on the upside, this is
+[02:15] one of the easiest screen removal
+[02:16] processes I've ever seen. The beautiful
+[02:19] 6.31 in LTPO OLED display is slightly
+[02:22] smaller than the Fairphone 5 6.46 in
+[02:25] display, but it has nearly double the
+[02:27] peak brightness and a variable refresh
+[02:28] rate from 10 to 120 hertz, enabling low
+[02:31] power always on functionality. So,
+[02:34] there's no question that this is the
+[02:35] superior screen. Next up, the USBC port.
+[02:38] Removing the speaker assembly
+[02:40] immediately gives me access to the
+[02:42] highly modular USBC port, which is
+[02:44] awesome if you ever have a failure due
+[02:46] to mechanical wear. I've removed every
+[02:48] major failure point from this section of
+[02:50] the phone, but for the sake of
+[02:51] completing the tear down, it's worth
+[02:52] noting that the daughterboard is also
+[02:54] modular and easily replaceable. The
+[02:56] warning label here sits on top of the
+[02:58] coax cables running down from the
+[03:00] mainboard. And while mainboard and
+[03:01] daughterboard replacements aren't going
+[03:03] to be a typical repair for most, it's
+[03:05] nice to know it's easily possible. But
+[03:07] the front-facing camera and the twin
+[03:09] rearfacing cameras are all immediately
+[03:11] accessible the moment I pop their
+[03:13] protective plastic cover off.
+[03:15] I'm disconnecting everything in sight
+[03:17] from the earpiece speaker, ultrawide
+[03:19] camera, the 50 megapixel main camera,
+[03:22] and all the way down to the interconnect
+[03:23] and coax cables. For those that have
+[03:26] experienced it, camera repairs can be
+[03:27] difficult and expensive. So, being able
+[03:29] to perform this repair at home and on a
+[03:31] budget will have a meaningful impact on
+[03:33] the devices longevity. And it's not just
+[03:35] longevity. The modular and accessible
+[03:37] design means that component upgrades are
+[03:39] entirely possible, just like we saw on
+[03:41] the Fairphone 3. At this point, you
+[03:43] might be wondering what happened to that
+[03:44] third camera bump on the back case.
+[03:46] Well, that's not for a camera, but the
+[03:48] time offlight sensor that needs its own
+[03:50] window to the outside world to function
+[03:52] correctly. With all those components
+[03:54] out, there's nothing stopping me from
+[03:56] removing the mainboard. So, I'm going to
+[03:58] remove it. One reason why the mainboard
+[04:00] came away so easily is the use of pogo
+[04:02] pins, which removes the need for more
+[04:03] connectors and tiny screws. The downside
+[04:06] is that the contact pads are glued to
+[04:08] the frame. Add to that delicate ribbon
+[04:10] cables and you have a potentially fiddly
+[04:12] repair if you ever break the power
+[04:13] button.
+[04:15] And there you have it, a fully torn down
+[04:17] Fairphone 6, which I'm pleased to report
+[04:20] went back together and will continue to
+[04:21] function for many more years to come.
+[04:23] From ease of access to the battery to an
+[04:25] extremely repair-friendly screen, USBC
+[04:28] port, and camera assembly, this phone is
+[04:30] made with one stubborn mission in mind
+[04:32] to outlast anything else in the same
+[04:34] product category and set an example as
+[04:36] to what a fair product might look like.
+[04:38] From raw resources to end product and
+[04:41] well beyond. The Fronhoffer Institute
+[04:43] found that keeping a fair phone for 5
+[04:44] years instead of three cut the phone's
+[04:47] carbon footprint by around 1/3. And the
+[04:50] key to achieving that longevity is
+[04:52] making available the parts, manuals, and
+[04:54] software updates that consumers can
+[04:56] reasonably be expected to need nearly a
+[04:58] decade down the line. With these
+[05:00] extremely wellthoughtout and executed
+[05:02] design decisions in mind, the Fairphone
+[05:04] 6 easily earns a 10 out of 10 for
+[05:06] repairability on iix smartphone
+[05:08] repairability scale, and we're very
+[05:10] happy to recommend it once more.

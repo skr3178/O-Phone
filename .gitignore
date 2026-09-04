@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Downloaded YouTube videos: >100MB (GitHub hard limit) + copyrighted content.
+# Source URLs are recorded in videos.md
+videos/*.mp4
+
+# FCC filing mirror (562MB, re-downloadable; INDEX.md lists every source URL)
+FCC_2AUWUFP6_Fairphone_Gen6/*
+!FCC_2AUWUFP6_Fairphone_Gen6/INDEX.md
+
+# Third-party teardown report (copyrighted)
+TD-Apple-iPhone-SE2_A2296.pdf

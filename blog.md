@@ -223,8 +223,12 @@ verify the Gen-6 score; 10/10 is confirmed for Fairphone 5]*.
 - **Jolla, the counter-example to the Qualcomm default:** MediaTek SoC + Sailfish OS +
   Finnish assembly — an alternative stack (no GMS) alive 12+ years on niche volumes.
   fccid.io detail: Jolla's entire FCC history is one 2015 *tablet* filing — no Jolla
-  phone was ever FCC-certified; the 2026 phone ships EU/UK/CH/NO only. [TODO: who does
-  Jolla's hardware/ODM?]
+  phone was ever FCC-certified; the 2026 phone ships EU/UK/CH/NO only. Its board-level
+  ODM is publicly undisclosed (Salo, Finland final assembly; Dimensity 7100 + SK hynix
+  + Sony parts); the 2024 Jolla C2 was built by Turkey's **Reeder**, Jolla's named
+  European manufacturing partner. iFixit's 2026 teardown (sources: [jolla/](jolla/)):
+  clip-off back, ~20 PH0 screws, main+SUB two-board layout — the same architecture
+  split as the FP6.
 - **The Sailfish nuance** ([os.md](os.md)): Jolla's business *is* OEM-licensing the OS —
   it runs on a normal Android BSP via libhybris; core open, but Silica UI and Android
   AppSupport **proprietary**. Our OS pick excluded it ("fails open source") for AOSP +
@@ -253,7 +257,7 @@ verify the Gen-6 score; 10/10 is confirmed for Fairphone 5]*.
      module, thick product.
 3. **Linux-phone route** — non-Qualcomm AP (i.MX/Rockchip) + modem module
    (Quectel/Broadmobi) + community OS. No Qualcomm NDA, genuinely open — but 2016-era
-   performance, no GMS. (PinePhone ~$150 BOM-class; Librem 5 — $2M+ and years late.)
+   performance, no GMS. (PinePhone ~$150 BOM-class; Librem 5 — ~$2.2M raised, 3+ years late, $599→$1,199.)
    Where our original Quectel/Cat-1 bis idea actually lives.
 4. **From scratch** — own board, RF, antennas, cert program. Nobody outside the top ~10
    OEMs; even they lean on Qualcomm reference designs.
@@ -269,8 +273,16 @@ verify the Gen-6 score; 10/10 is confirmed for Fairphone 5]*.
   community · rung 4 don't.
 - Survivors are values-based niches: Fairphone (repairability + EU regulation
   tailwind), Light Phone & Punkt (minimalism), Jolla (pivoted to B2B licensing;
-  consumer phone returning October 2026). Graveyard: Essential — $330M raised, dead in
-  2.5 years. *[TODO: 1–2 more graveyard cases with numbers]*
+  consumer phone returning October 2026 — **10,000 pre-orders / >€5M committed in
+  3 months at €649**: our 10k target volume is demonstrably pre-orderable in Europe on
+  a values pitch).
+- **Graveyard, with numbers:** Essential — $330M raised, dead in 2.5 years · Ubuntu
+  Edge (2013) — $12.7M raised of a $32M goal from 27,633 backers, at once the largest
+  crowdfund and the largest shortfall of its day; refunded, never built · Librem 5 —
+  ~$2.2M raised, promised Jan 2019, first mass-production unit Nov 2020, price
+  $599→$1,199, years-long refund crisis (alive, but path 3's warning label) ·
+  PinePhone Pro — ~12,000 units, then discontinued: even at $149–399, path 3 tops out
+  around 10⁴ units.
 - **Rung-1 fingerprint, in our own folder** ([lightphone_specs.md](lightphone_specs.md)):
   Light Phone III = Qualcomm SM4450, Light Flip = MediaTek MT8873 — yet both share
   6 GB/128 GB, 50 MP sensor, 1800 mAh, IP54. Two SoC vendors, identical supporting
@@ -301,7 +313,10 @@ verify the Gen-6 score; 10/10 is confirmed for Fairphone 5]*.
 - SEP royalties: Qualcomm 5G handset licensing program (qualcomm.com PDF); published Nokia/Ericsson/Huawei/InterDigital rate caps
 - Smart modules: Thundercomm C6490 dev kit <https://www.thundercomm.com/product/c6490-development-kit> ·
   Quectel SG560D <https://www.quectel.com/product/5g-sg560d-smart-module-series>
-- *[TODO: Pine64/Purism postmortems, PTCRB/GCF fee schedules, EU repairability-index links]*
+- Graveyard/postmortems: Ubuntu Edge <https://en.wikipedia.org/wiki/Ubuntu_Edge> ·
+  Librem 5 <https://en.wikipedia.org/wiki/Librem_5> + <https://puri.sm/posts/librem-5-shipping-announcement/> ·
+  PinePhone Pro discontinuation (HowToGeek) · Jolla 2026 pre-orders + teardown: [jolla/](jolla/)
+- *[TODO: PTCRB/GCF fee schedules, EU repairability-index links]*
 
 ---
 
@@ -318,9 +333,10 @@ verify the Gen-6 score; 10/10 is confirmed for Fairphone 5]*.
 > **Status:** condensed draft — bullets + tables, peer-review fixes folded in
 > (reconciled BOM table, 2026 memory-surge update, SEP royalty stack, cert-stack costs,
 > GMS/MADA path, smart-module rung 2½, Jolla FCC detail, Light-Phone rung-1 case).
-> **Remaining TODOs:** Jolla's ODM identity · Pine64/Purism postmortems · graveyard
-> case numbers · component-tier verification · BYD/Nothing primary source · FP6 iFixit
-> score check.
+> **Remaining TODOs:** component-tier verification · BYD/Nothing primary source · FP6
+> iFixit score check · PTCRB/GCF fee schedules · EU repairability-index links.
+> Resolved via peer research: graveyard numbers, Pine64/Purism, Jolla ODM (undisclosed;
+> C2 2024 = Reeder — sources in [jolla/](jolla/)).
 > **Working titles:** "Nobody Builds a Phone From Scratch (Not Even Fairphone)" ·
 > "An Engineer's Field Guide to Building a Phone" · "The Four Ways Into the Phone Business"
 > **Audience:** engineer-curious reader; payoff = honest feasibility verdict for a small team.

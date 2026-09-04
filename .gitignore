@@ -12,3 +12,19 @@ FCC_2AUWUFP6_Fairphone_Gen6/*
 # Third-party teardown report (copyrighted)
 TD-Apple-iPhone-SE2_A2296.pdf
 !FCC_2AUWUFP6_Fairphone_Gen6/README.md
+
+# blog.md image picks: FCC public-record extracts only (rest of _extracted stays out)
+!FCC_2AUWUFP6_Fairphone_Gen6/_extracted/
+FCC_2AUWUFP6_Fairphone_Gen6/_extracted/*
+!FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/
+FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/*
+!FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/antmap_crop.png
+!FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/
+FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/*
+!FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p2_page02.png
+!FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p1_page05.png
+!FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p2_page14.png
+!FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p2_page04.png
+!FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p2_page03.png
+!FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p1_page19.png
+!FCC_2AUWUFP6_Fairphone_Gen6/_extracted/inpho/raw/p2_page09.png
